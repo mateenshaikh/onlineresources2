@@ -1,5 +1,5 @@
 theme: "hugo-geekdoc"
-baseURL: http://example.org/
+baseURL: /
 languageCode: en-us
 title: ms
 markup:
