@@ -2,8 +2,6 @@ theme: "hugo-geekdoc"
 baseURL: http://example.org/
 languageCode: en-us
 title: ms
-
-
 markup:
   goldmark: 
     renderer:
