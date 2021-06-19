@@ -1,0 +1,19 @@
+theme: "hugo-geekdoc"
+baseURL: http://example.org/
+languageCode: en-us
+title: ms
+
+
+markup:
+  goldmark: 
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: perldoc
+    tabWidth: 4
